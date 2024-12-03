@@ -1,0 +1,5 @@
+{
+  "name": "feast-app",
+  "integrations": {},
+  "type": "angular-standalone"
+}
